@@ -1,0 +1,7 @@
+{
+    "window.autoDetectColorScheme": false,
+    "window.commandCenter": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+    ],
+}
