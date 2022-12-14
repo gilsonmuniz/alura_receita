@@ -34,15 +34,15 @@ Site de receitas desenvolvido com Django visto na plataforma **[Alura](alura.com
 - Refatoração de código.
 <br><br>
 
-## Site
-### Cadastro
+## Site:
+### Cadastro:
 ![Minhas Receitas](/media/fotos/docs/cadastro.png "Página de cadastro do usuário")
 
-### Login
+### Login:
 ![Minhas Receitas](/media/fotos/docs/login.png "Página de login do usuário")
 
-### Página de Minhas Receitas
+### Página de Minhas Receitas:
 ![Minhas Receitas](/media/fotos/docs/minhas_receitas.png "Página de minhas receitas")
 
-### Criar Receita
+### Criar Receita:
 ![Minhas Receitas](/media/fotos/docs/criar_receita.png "Página de criação de receitas")
