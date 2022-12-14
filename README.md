@@ -41,7 +41,7 @@ Site de receitas desenvolvido com Django visto na plataforma **[Alura](alura.com
 ### Login:
 ![Minhas Receitas](/media/fotos/docs/login.png "Página de login do usuário")
 
-### Página de Minhas Receitas:
+### Minhas Receitas:
 ![Minhas Receitas](/media/fotos/docs/minhas_receitas.png "Página de minhas receitas")
 
 ### Criar Receita:
