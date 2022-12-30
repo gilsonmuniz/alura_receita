@@ -1,5 +1,5 @@
 # Alura Receita
-Site de receitas desenvolvido com Django visto na plataforma **[Alura](alura.com.br)**.
+Site de receitas desenvolvido com Django visto na plataforma [Alura](alura.com.br).
 
 ## Cursos:
 1. [Django: Modelos, Rotas e Views](https://cursos.alura.com.br/certificate/8f63be5d-de91-4f7f-920b-40b70bb09760):
