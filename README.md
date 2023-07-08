@@ -1,7 +1,7 @@
 # Alura Receita
 Site de receitas desenvolvido com Django visto na plataforma [Alura](alura.com.br).
 
-## Cursos:
+## Cursos
 1. [Django: Modelos, Rotas e Views](https://cursos.alura.com.br/certificate/8f63be5d-de91-4f7f-920b-40b70bb09760):
 - Iniciando aplicação e subindo o servidor;
 - Template, rotas e views;
@@ -42,18 +42,18 @@ Site de receitas desenvolvido com Django visto na plataforma [Alura](alura.com.b
 - Modelos e formulários.
 <br><br>
 
-## Site:
-### Cadastro:
+## Site
+### Cadastro
 ![Cadastro](/media/fotos/docs/cadastro.png "Página de cadastro do usuário")
 
-### Login:
+### Login
 ![Login](/media/fotos/docs/login.png "Página de login do usuário")
 
-### Minhas Receitas:
+### Minhas Receitas
 ![Minhas Receitas](/media/fotos/docs/minhas_receitas.png "Página de minhas receitas")
 
-### Criar Receita:
+### Criar Receita
 ![Criar Receita](/media/fotos/docs/criar_receita.png "Página de criação de receitas")
 
-### Admin:
+### Admin
 ![Admin](/media/fotos/docs/admin.png "Página do administrador")
